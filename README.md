@@ -7,3 +7,9 @@
 `python3 CloudScrpaer.py`
 
 Edit The Config File If you want
+
+
+
+
+pretty much just an updated vir of
+https://github.com/monosans/proxy-scraper-checker
